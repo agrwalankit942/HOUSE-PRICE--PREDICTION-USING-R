@@ -1,3 +1,11 @@
+<img width="840" height="840" alt="image" src="https://github.com/user-attachments/assets/d6a9a197-0537-4598-b7a7-53945c79d2be" />
+<img width="840" height="840" alt="image" src="https://github.com/user-attachments/assets/924abd2f-5fe1-4e9f-8e77-faa7c7f7d2a0" />
+<img width="840" height="840" alt="image" src="https://github.com/user-attachments/assets/e289076b-e9a5-49bf-88ea-34081632b389" />
+<img width="840" height="840" alt="image" src="https://github.com/user-attachments/assets/f5f316e5-53fd-49d5-9c15-fa5c566ece92" />
+
+
+
+
 🏠 House Price Prediction using Machine Learning in R
 📌 Project Overview
 
